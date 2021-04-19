@@ -7,4 +7,4 @@ timeout /t 2
 shutdown.exe /r /t 0
 
 :reference 1: https://yongil.tistory.com/188
-:reference 2: https://hotman.tistory.com/m/585?category=335356
+:reference 2: https://projecteli.tistory.com/150
