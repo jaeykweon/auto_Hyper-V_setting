@@ -22,3 +22,8 @@ When you want to use docker after using Bluestack, just try "enable_hyper-v.bat"
 1. os : windows 10 pro
 2. processor : AMD Ryzen
 3. system type : 64bit (not important, maybe..)
+
+## reference
+1. https://yongil.tistory.com/188
+2. https://projecteli.tistory.com/150
+3. https://citylock.tistory.com/604
