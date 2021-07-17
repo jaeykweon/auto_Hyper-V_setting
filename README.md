@@ -3,7 +3,11 @@ if you try to execute Bluestack in docker installed environment, "How to disable
 "disable_hyper-v.bat" file will automatically disable Hyper-V and allow using Bluestack.
 When you want to use docker after using Bluestack, just try "enable_hyper-v.bat".
 
+### docker error
 <img src="https://user-images.githubusercontent.com/30148662/115263937-cf399a80-a170-11eb-9564-cb0ddcd3928f.PNG"  width="600" height="350">
+
+### bluestack error
+<img src="https://user-images.githubusercontent.com/30148662/126043305-933f93e5-3c35-4df7-a77c-414a7c9e09a1.PNG"  width="500" height="250">
 
 ---
 ## how to use (docker to bluestack)
